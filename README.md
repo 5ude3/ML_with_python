@@ -1,2 +1,2 @@
-# ML_with_python
-My ML practice repo.
+# Machine Learning with Python
+This is my ML practice repo.
